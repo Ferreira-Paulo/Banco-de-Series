@@ -1,0 +1,26 @@
+* {
+  border: 0;
+  margin: 0;
+  padding: 0;
+}
+
+navbar {
+  display: grid;
+  grid-template-columns: 1fr 5fr;
+  align-items: center;
+  margin: 12px;
+}
+
+img {
+  width: 72px;
+  height: 72px;
+}
+
+input {
+  width: 90%;    
+  margin: 0em;
+  border-width: 2px;
+  border-style: inset;
+  border-image: initial;
+}
+
